@@ -1,0 +1,63 @@
+/* =========================================
+   CV / RESUME PAGE
+   ========================================= */
+.cv-section {
+    padding: 2rem 0 6rem;
+}
+
+.cv-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding: 0 1rem;
+}
+
+.cv-title-group {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.back-link {
+    font-size: 1.2rem;
+    color: #888;
+    transition: color 0.3s ease;
+}
+
+.back-link:hover {
+    color: #fff;
+    transform: translateX(-3px);
+}
+
+.cv-viewer-container {
+    background: #fff;
+    border-radius: 12px;
+    padding: 0;
+    overflow: hidden;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    height: 1615px;
+    /* Increased to fit full A4 Page without scrolling */
+    border: 1px solid #333;
+}
+
+.cv-frame {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+
+/* Global Media Queries */
+@media (max-width: 768px) {
+    .cv-header {
+        flex-direction: column;
+        gap: 1.5rem;
+        align-items: flex-start;
+    }
+
+    .cv-viewer-container {
+        height: 600px;
+        /* Adjusted for mobile */
+    }
+}

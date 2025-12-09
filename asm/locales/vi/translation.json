@@ -1,0 +1,245 @@
+{
+    "nav_home": "Trang chủ",
+    "nav_about": "Giới thiệu",
+    "nav_skills": "Kỹ năng & Dự án",
+    "nav_blog": "Bài viết",
+    "nav_contact": "Liên hệ",
+    "lang_vi": "Tiếng Việt",
+    "lang_en": "English",
+    "lang_label": "Ngôn ngữ",
+    "hero_role": "Lập trình viên Backend • Thiết kế Website",
+    "hero_desc": "Tôi là Khoa Trần, đang theo học Lập trình Website tại FPT Polytechnic. Công việc của tôi tập trung vào thiết kế và phát triển web. Tại đây, tôi sẽ giới thiệu về chuyên môn và các dự án của mình.",
+    "hero_welcome": "Chào mừng đến với Website của Khoa Trần.",
+    "btn_view_projects": "Xem Dự án",
+    "btn_cv": "CV",
+    "info_education": "Học vấn",
+    "info_major": "Lập trình Website",
+    "info_school": "FPT Polytechnic",
+    "date_present": "2023 - Hiện tại",
+    "info_experience": "Kinh nghiệm",
+    "info_job": "Thiết kế & Phát triển Web",
+    "info_freelance": "Tự do (Freelance)",
+    "info_skills": "Kỹ năng",
+    "section_featured_articles": "Bài viết nổi bật",
+    "btn_view_all_posts": "Xem tất cả bài viết",
+    "read_more": "Đọc thêm",
+    "about_hero_role": "Lập trình viên Backend • Thiết kế Website",
+    "bio_greeting": "Xin chào, tớ là Khoa Tran, sinh viên chuyên ngành phát triển website tại FPT Polytechnic. Tớ đang là freelancer thiết kế website và là một người đam mê công nghệ. Tớ đang hướng tới trở thành một Fullstack Developer và thực hiện thêm nhiều ước mơ phía trước.",
+    "bio_quote": "Tương lai thuộc về những người tin vào vẻ đẹp trong chính những giấc mơ, hoài bão to lớn của mình...",
+    "bio_text": "Giới thiệu nhiều hơn một chút về bản thân, tớ sống và làm việc tại Đà Nẵng. Tớ thích tìm hiểu về những thứ mới mẻ, thử thách bản thân và không ngừng học hỏi nhiều điều hơn. Tớ có kĩ năng khá tốt với nghệ thuật và cả kĩ thuật/công nghệ, không phải là năng khiếu thiên bẩm, nhưng tớ cảm nhận được tớ đã tự đạt được bằng những nỗ lực của bản thân.<br><br>Ngoài ra, tớ cũng siêu thích quay phim và chụp ảnh, kiểu như, tớ đang muốn truyền tải với thế giới này những gì tớ thấy qua góc kính máy ảnh nhiệm màu.",
+    "auth_label": "Tác giả của website này.",
+    "edu_title": "FPT Polytechnic Đà Nẵng",
+    "edu_desc": "Chuyên ngành Phát triển Website. Tập trung vào công nghệ backend và phát triển Fullstack.",
+    "exp_freelance_title": "Lập trình viên Web Freelance",
+    "exp_freelance_place": "Tự do",
+    "exp_freelance_desc": "Xây dựng các ứng dụng web và landing page đáp ứng cho nhiều khách hàng khác nhau.",
+    "exp_intern_title": "Thực tập sinh Frontend",
+    "exp_intern_place": "Tech Solutions Inc.",
+    "exp_intern_desc": "Phát triển giao diện người dùng sử dụng React và cải thiện hiệu suất website.",
+    "gallery_title": "Thư viện Locket",
+    "gallery_subtitle": "Bộ sưu tập những kỷ niệm, địa điểm và những điều nhỏ bé truyền cảm hứng cho tôi.",
+    "skills_header": "Công nghệ & Kỹ năng",
+    "cat_languages": "Ngôn ngữ",
+    "cat_frameworks": "Frameworks & Thư viện",
+    "cat_tools": "Công cụ",
+    "cat_databases": "Cơ sở dữ liệu",
+    "cat_design": "Thiết kế & Truyền thông",
+    "projects_header": "Dự án",
+    "projects": {
+        "1": {
+            "title": "Note To Get Your Goal",
+            "description": "Hệ thống Quản lý Mục tiêu & Ghi chú Thông minh cho phép người dùng (đặc biệt là sinh viên) tạo, quản lý và theo dõi các mục tiêu cá nhân hàng ngày, theo kỳ học hoặc theo khóa học.",
+            "tech": [
+                "Vue.js",
+                "Laravel",
+                "Docker",
+                "CI/CD",
+                "GitHub Actions"
+            ],
+            "role": "Trưởng nhóm, PM, Backend",
+            "members": "5 thành viên",
+            "date": "Hiện tại",
+            "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&auto=format&fit=crop&q=60"
+        },
+        "2": {
+            "title": "TedeShop Electronic",
+            "description": "Website thương mại điện tử chuyên về thiết bị công nghệ điện tử với đầy đủ các tính năng cơ bản, xây dựng theo mô hình MVC.",
+            "tech": [
+                "Mô hình MVC",
+                "PHP",
+                "MySQL",
+                "JavaScript"
+            ],
+            "role": "Thành viên (Model & Giao diện)",
+            "members": "6 thành viên",
+            "date": "T10/2024 - T12/2024",
+            "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=800&auto=format&fit=crop&q=60"
+        },
+        "3": {
+            "title": "Website Đọc Sách",
+            "description": "Một nền tảng cung cấp đa dạng các đầu sách nổi tiếng và chất lượng cao để đọc trực tuyến.",
+            "tech": [
+                "Mô hình MVC",
+                "PHP",
+                "MySQL"
+            ],
+            "role": "Trưởng nhóm",
+            "members": "1 thành viên",
+            "date": "T10/2024 - T12/2024",
+            "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=60"
+        }
+    },
+    "blog_hero_eyebrow": "Blog của tôi",
+    "blog_hero_title": "Câu chuyện & Ý tưởng",
+    "blog_hero_subtitle": "Những bài viết, tin tức, công nghệ và tài nguyên mới nhất từ tôi.",
+    "filter_all": "Tất cả",
+    "filter_writing": "Bài viết",
+    "filter_tutorials": "Hướng dẫn",
+    "section_recent_posts": "Bài viết gần đây",
+    "section_all_posts": "Tất cả bài viết",
+    "contact_subtitle": "LIÊN HỆ",
+    "contact_title": "Liên hệ với tôi",
+    "contact_desc": "Có câu hỏi hoặc muốn hợp tác? Tôi rất mong nhận được tin từ bạn.",
+    "label_name": "Tên của bạn",
+    "label_email": "Email",
+    "label_phone": "Số điện thoại (Tùy chọn)",
+    "label_company": "Công ty (Tùy chọn)",
+    "label_category": "Danh mục",
+    "label_subject": "Chủ đề",
+    "label_message": "Tin nhắn",
+    "btn_send": "Gửi tin nhắn",
+    "opt_general": "Thắc mắc chung",
+    "opt_project": "Hợp tác dự án",
+    "opt_freelance": "Freelance",
+    "opt_other": "Khác",
+    "ph_name": "Tên của bạn",
+    "ph_email": "example@abc.com",
+    "ph_phone": "+84 123 456 789",
+    "ph_company": "Tên công ty của bạn",
+    "ph_subject": "Chủ đề",
+    "ph_message": "Tin nhắn của bạn...",
+    "cv_title": "Hồ sơ năng lực",
+    "btn_download_cv": "Tải CV",
+    "footer_desc": "Lập trình viên Backend xây dựng trải nghiệm web đẹp mắt. Chia sẻ kiến thức và hành trình qua những dòng code.",
+    "footer_explore": "Khám phá",
+    "footer_project": "Dự án",
+    "footer_blog": "Bài viết",
+    "footer_photo": "Ảnh",
+    "footer_about": "Về tôi",
+    "footer_showcase": "Trưng bày",
+    "footer_connect": "Kết nối",
+    "footer_resume": "Hồ sơ (CV)",
+    "footer_email": "Gửi Email",
+    "footer_rights": "© 2025 Khoa Tran. Đã đăng ký bản quyền.",
+    "footer_privacy": "Chính sách bảo mật",
+    "footer_terms": "Điều khoản dịch vụ",
+    "back_to_blog": "Quay lại Blog",
+    "author_role": "Tác giả & Lập trình viên",
+    "blog_posts": {
+        "15": {
+            "title": "Sức mạnh Lượng tử 2.0: Sự kết thúc của Mã hóa?",
+            "date": "15 Th12, 2025",
+            "category": "Lượng tử",
+            "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200",
+            "content": "<p class=\"lead\">Cuộc cách mạng lượng tử không phải sắp đến; nó đã ở đây rồi. Một bộ xử lý 10.000 qubit mới vừa phá vỡ các kỷ lục trước đây, đạt đến cột mốc được gọi là 'Sức mạnh Lượng tử 2.0'.</p><p>Trong nhiều thập kỷ, mã hóa RSA là xương sống của an ninh internet, bảo vệ mọi thứ từ giao dịch ngân hàng đến bí mật quốc gia. Nhưng với thông báo tuần này từ Liên minh Lượng tử, mạng lưới an toàn đó đang rách nát. Con chip mới, được đặt tên là 'Q-Core X', đã chứng minh khả năng phân tích các số nguyên tố lớn với tốc độ từng được coi là không thể trong hai mươi năm tới.</p><blockquote>\"Chúng ta đang đứng trên bờ vực của một mùa đông mật mã. Nếu chúng ta không chuyển sang các thuật toán hậu lượng tử ngay bây giờ, dữ liệu của chúng ta coi như đã bị xâm phạm.\"</blockquote><h2>Cuộc đua Mật mã Hậu lượng tử</h2><p>Thế giới an ninh mạng hiện đang trong một cuộc đua điên cuồng để triển khai các tiêu chuẩn mật mã hậu lượng tử (PQC). NIST đã theo dõi nhanh một số thuật toán được thiết kế để chống lại các cuộc tấn công lượng tử, nhưng việc nâng cấp toàn bộ cơ sở hạ tầng toàn cầu là một nhiệm vụ to lớn.</p><img src=\"https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=800\" alt=\"Chip Lượng tử\" class=\"article-image\"><span class=\"caption\">Chip Q-Core X sử dụng kiến trúc mạng quang tử để giảm thiểu nhiễu.</span><h2>Điều này có ý nghĩa gì với bạn</h2><p>Đối với người dùng bình thường, tác động ngay lập tức là tối thiểu, nhưng ý nghĩa lâu dài là rất lớn. Các tin nhắn được mã hóa của bạn từ mười năm trước có khả năng bị giải mã ngay hôm nay. Khái niệm này, được gọi là \"lưu trữ ngay, giải mã sau\", đang thúc đẩy sự khẩn cấp.</p>"
+        },
+        "14": {
+            "title": "Sự trỗi dậy của các Mô hình Ngôn ngữ Nhỏ Chuyên biệt",
+            "date": "14 Th12, 2025",
+            "category": "AI & Công nghệ",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200",
+            "content": "<p class=\"lead\">Lớn hơn không phải lúc nào cũng tốt hơn. Trong khi GPT-5 thống trị các tiêu đề, một cuộc cách mạng thầm lặng đang diễn ra trên thiết bị cục bộ của bạn: sự trỗi dậy của các Mô hình Ngôn ngữ Nhỏ (SLM).</p><p>Trong nhiều năm, xu hướng AI là xây dựng các mô hình khổng lồ với hàng nghìn tỷ tham số, đòi hỏi các trung tâm dữ liệu có kích thước bằng sân bóng đá. Tuy nhiên, năm 2024 đã chứng kiến sự chuyển hướng sang hiệu quả. Các mô hình mới như Phi-4 và Llama-Mini đang mang lại hiệu suất cấp độ GPT-3.5 trong khi chạy hoàn toàn ngoại tuyến trên điện thoại thông minh cao cấp.</p><blockquote>\"Quyền riêng tư là ứng dụng sát thủ cho AI. Người dùng muốn trí thông minh mà không cần gửi dữ liệu cá nhân của họ lên đám mây.\"</blockquote><h2>Thời khắc của Điện toán Biên</h2><p>Sự thay đổi này cho phép 'AI biên' – các ứng dụng thông minh chạy cục bộ. Hãy tưởng tượng một trợ lý giọng nói biết lịch trình, dữ liệu sức khỏe và email của bạn nhưng không bao giờ gửi một byte nào đến máy chủ trung tâm. Điều này làm giảm đáng kể độ trễ và giải quyết các lo ngại về quyền riêng tư đã gây khó khăn cho các trợ lý dựa trên đám mây.</p><img src=\"https://images.unsplash.com/photo-1555618254-76a8a47ad23f?w=800\" alt=\"AI Di động\" class=\"article-image\"><span class=\"caption\">SLM đang mang lại khả năng AI mạnh mẽ cho các thiết bị di động.</span><h2>Trí tuệ Nhân tạo Thân thiện Môi trường</h2><p>Một yếu tố thúc đẩy khác là tiêu thụ năng lượng. SLM cung cấp một sự thay thế bền vững, giảm lượng khí thải carbon của suy luận AI theo cấp số nhân.</p>"
+        },
+        "13": {
+            "title": "SpaceX Starship: Cánh cổng Nhân loại đến Sao Hỏa",
+            "date": "13 Th12, 2025",
+            "category": "Vũ trụ",
+            "image": "https://images.unsplash.com/photo-1541873676-a18131494184?w=1200",
+            "content": "<p class=\"lead\">Giấc mơ về một giống loài đa hành tinh đang nhanh chóng trở thành hiện thực. Starship của SpaceX đã hoàn thành thành công thử nghiệm tiếp nhiên liệu trên quỹ đạo, một bước quan trọng cho các sứ mệnh không gian sâu.</p><p>Đứng cao hơn cả Saturn V, Starship là vật thể bay lớn nhất từng được chế tạo. Thiết kế có thể tái sử dụng hoàn toàn của nó hứa hẹn sẽ giảm chi phí phóng trọng tải lên quỹ đạo từ hàng nghìn đô la mỗi kg xuống chỉ còn vài chục đô la. Thử nghiệm thành công tuần này đã chứng minh rằng nhiên liệu đẩy có thể được chuyển giữa các tàu trong môi trường không trọng lực.</p><blockquote>\"Chúng ta đang xây dựng đường sắt đến các vì sao. Khi cơ sở hạ tầng đã sẵn sàng, các khả năng là vô hạn.\"</blockquote><h2>Hạm đội Sao Hỏa</h2><p>Elon Musk đã công bố kế hoạch phóng một hạm đội gồm năm chiếc Starship không người lái lên Sao Hỏa trong cửa sổ phóng tiếp theo. Những con tàu này sẽ cung cấp các vật tư thiết yếu, môi trường sống và thiết bị phát điện để chuẩn bị cho những nhà thám hiểm con người đầu tiên.</p><img src=\"https://images.unsplash.com/photo-1517976487492-5750f3195933?w=800\" alt=\"Phóng Starship\" class=\"article-image\"><span class=\"caption\">Starship cất cánh từ Starbase, Texas.</span><h2>Vượt ra ngoài Sao Hỏa</h2><p>Trong khi Sao Hỏa là tiêu đề chính, khả năng của Starship mở ra toàn bộ hệ mặt trời. Kính thiên văn không gian khổng lồ, trạm vũ trụ công nghiệp và hoạt động khai thác tiểu hành tinh hiện đã khả thi về mặt lý thuyết và kinh tế.</p>"
+        },
+        "12": {
+            "title": "Pin Thể Rắn: Chén Thánh của Cách mạng Xe điện",
+            "date": "12 Th12, 2025",
+            "category": "Năng lượng",
+            "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1200",
+            "content": "<p class=\"lead\">Nỗi lo về phạm vi hoạt động có thể sớm trở thành dĩ vãng. Toyota và Panasonic đã công bố một loại pin thể rắn sẵn sàng sản xuất cung cấp phạm vi hoạt động 1.200km.</p><p>Pin lithium-ion hiện tại sử dụng chất điện phân lỏng, nặng, dễ cháy và hạn chế tốc độ sạc. Pin thể rắn thay thế bằng vật liệu rắn, cho phép mật độ năng lượng cao hơn và an toàn hơn. Nguyên mẫu mới sạc từ 10% lên 80% chỉ trong 9 phút, ngang ngửa với thời gian đổ đầy bình xăng.</p><h2>Chuyển đổi Lưới điện</h2><p>Không chỉ là về ô tô. Những loại pin này đủ ổn định để lưu trữ lưới điện dài hạn, làm phẳng những biến động của các nguồn năng lượng tái tạo như gió và mặt trời.</p><img src=\"https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=800\" alt=\"Công nghệ Pin\" class=\"article-image\"><h2>Rào cản Chi phí</h2><p>Rào cản duy nhất còn lại là chi phí sản xuất. Hiện tại, sản xuất pin thể rắn đắt hơn đáng kể so với pin truyền thống. Tuy nhiên, với sự đầu tư lớn từ các chính phủ và nhà sản xuất ô tô, quy mô kinh tế dự kiến sẽ đẩy giá xuống nhanh chóng trong ba năm tới.</p>"
+        },
+        "11": {
+            "title": "Thử nghiệm trên Người của Neuralink: Phục hồi Thị giác",
+            "date": "11 Th12, 2025",
+            "category": "Công nghệ sinh học",
+            "image": "https://images.unsplash.com/photo-1555618254-76a8a47ad23f?w=1200",
+            "content": "<p class=\"lead\">Khoa học viễn tưởng đang trở thành sự thật y tế. Thiết bị cấy ghép 'Blindsight' của Neuralink đã phục hồi thành công thị lực sơ khai cho một bệnh nhân mù bẩm sinh.</p><p>Thiết bị bỏ qua hoàn toàn đôi mắt, kết nối một camera trực tiếp với vỏ não thị giác của não bộ. Mặc dù độ phân giải hiện tại còn thấp—được ví như đồ họa 8-bit thời kỳ đầu—nó chứng minh rằng não bộ có thể học cách diễn giải các tín hiệu kỹ thuật số trực tiếp như đầu vào cảm giác.</p><h2>Cách thức Hoạt động</h2><p>Thiết bị cấy ghép bao gồm hàng nghìn điện cực siêu nhỏ kích thích các nơ-ron cụ thể. Theo thời gian, tính dẻo của não cho phép nó ánh xạ các xung điện này thành nhận thức không gian. Các phiên bản tương lai hứa hẹn độ phân giải cao hơn và thậm chí khả năng nhìn trong phổ hồng ngoại hoặc tia cực tím.</p><img src=\"https://images.unsplash.com/photo-1581093458891-b9f72e627e10?w=800\" alt=\"Giao diện Não\" class=\"article-image\"><h2>Câu hỏi về Đạo đức</h2><p>Nếu chúng ta có thể nhập thị giác, liệu chúng ta có thể nhập ký ức? Hay quảng cáo? Các nhà quản lý đang vật lộn để theo kịp tốc độ của công nghệ thần kinh.</p>"
+        },
+        "10": {
+            "title": "Mạng 6G: Internet của Giác quan",
+            "date": "10 Th12, 2025",
+            "category": "Kết nối",
+            "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200",
+            "content": "<p class=\"lead\">Quên phát trực tuyến 4K đi. 6G được thiết kế để truyền tải xúc giác, khứu giác và sự hiện diện ba chiều ngay lập tức.</p><p>Trong khi 5G vẫn đang được triển khai trên toàn cầu, các cơ quan tiêu chuẩn đang hoàn thiện các thông số cho 6G, dự kiến ra mắt thương mại vào năm 2030. Hoạt động trong các băng tần terahertz, 6G hứa hẹn tốc độ nhanh hơn 100 lần so với 5G và độ trễ gần như bằng không.</p><blockquote>\"6G sẽ số hóa thế giới vật lý. Chúng ta sẽ chuyển từ internet vạn vật sang internet trí tuệ.\"</blockquote><h2>Giao tiếp Ba chiều</h2><p>Với 6G, video thể tích độ trung thực cao (hologram) sẽ trở thành tiêu chuẩn. Những người làm việc từ xa có thể ngồi quanh một chiếc bàn ảo và cảm thấy như thể họ đang hiện diện vật lý. Các bác sĩ phẫu thuật có thể thực hiện các ca phẫu thuật từ xa với găng tay phản hồi xúc giác.</p><img src=\"https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800\" alt=\"Mạng Toàn cầu\" class=\"article-image\"><h2>Thách thức Cơ sở hạ tầng</h2><p>Thách thức nằm ở vật lý. Sóng terahertz có phạm vi rất ngắn và dễ bị chặn bởi các bức tường hoặc thậm chí là mưa. Điều này sẽ đòi hỏi một lưới dày đặc của hàng triệu ăng-ten nhỏ.</p>"
+        },
+        "9": {
+            "title": "Dọn sạch Đại dương: Chiến thắng tại Thái Bình Dương",
+            "date": "09 Th12, 2025",
+            "category": "Công nghệ Xanh",
+            "image": "https://images.unsplash.com/photo-1621451537084-482c73073a0f?w=1200",
+            "content": "<p class=\"lead\">Đảo rác Thái Bình Dương đang thu nhỏ lại. Dự án The Ocean Cleanup đã tuyên bố 'Hệ thống 003' của họ là một thành công vang dội.</p><p>Sử dụng các rào chắn nổi hình chữ U khổng lồ được dẫn đường bởi AI, hệ thống tập trung rác thải nhựa để khai thác. Chỉ trong sáu tháng, đợt triển khai mới nhất đã loại bỏ hơn 200 tấn rác thải, từ lưới đánh cá bị bỏ hoang đến vi nhựa. Tổ chức hiện dự báo rằng với một hạm đội đầy đủ, đảo rác có thể biến mất vào năm 2040.</p><h2>Biến Rác thành Kho báu</h2><p>Điều gì xảy ra với nhựa? Nó được đưa trở lại bờ và tái chế thành hàng hóa bền như kính râm và phụ tùng ô tô. Số tiền thu được từ các sản phẩm này giúp tài trợ cho các hoạt động dọn dẹp.</p><img src=\"https://images.unsplash.com/photo-1611273426728-c009d9eb5d8a?w=800\" alt=\"Rác thải Nhựa\" class=\"article-image\"><h2>Máy chặn Sông</h2><p>Ngăn chặn dòng chảy tại nguồn cũng quan trọng không kém. Dự án tiếp tục triển khai các 'Interceptor'—sà lan chạy bằng năng lượng mặt trời—tại các con sông ô nhiễm nhất thế giới.</p>"
+        },
+        "8": {
+            "title": "AI Tạo sinh: Từ Thử nghiệm đến Tiện ích Thiết yếu",
+            "date": "08 Th12, 2025",
+            "category": "AI & Công nghệ",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200",
+            "content": "<p class=\"lead\">Năm 2024 đánh dấu thời điểm AI tạo sinh chuyển mình từ một điều mới lạ thành nền tảng cơ bản của công nghệ hiện đại. Nó không còn chỉ là tạo ra những hình ảnh vui nhộn; nó đang định hình lại quy trình làm việc trong mọi ngành công nghiệp.</p><blockquote>\"AI đang trở thành nguồn điện mới, vận hành các ứng dụng chúng ta sử dụng hàng ngày mà chúng ta thậm chí không nhận ra.\"</blockquote><p>AI tạo sinh nổi lên như một công nghệ nền tảng vào năm 2024, vượt qua giai đoạn thử nghiệm để trở thành một phần không thể thiếu của cuộc sống hàng ngày và hoạt động kinh doanh. Các công ty như Google và Microsoft đã nhúng khả năng AI vào các ứng dụng chính thống của họ.</p><h2>Sự Tích hợp Mọi Nơi</h2><p>Microsoft đã tích hợp GPT-4 vào nền tảng Microsoft 365 để thực hiện các tác vụ như soạn thảo văn bản, phân tích bảng tính và tóm tắt cuộc họp. Sự tích hợp liền mạch này có nghĩa là hàng triệu người dùng hiện đang tận dụng AI tiên tiến mà không cần phải là chuyên gia công nghệ.</p><p>Tương tự, Google đã đưa AI vào các công cụ không gian làm việc của mình, nâng cao năng suất và sự sáng tạo. Khả năng tạo văn bản, hình ảnh và thậm chí cả mã lệnh ngay lập tức đang dân chủ hóa việc sáng tạo nội dung.</p><img src=\"https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800\" alt=\"AI Tích hợp\" class=\"article-image\"><span class=\"caption\">AI hiện đang len lỏi vào từng cấu trúc của các công cụ kỹ thuật số của chúng ta.</span><h2>Triển vọng Tương lai</h2><p>Khi chúng ta tiến về phía trước, trọng tâm đang chuyển từ \"AI có thể làm gì?\" sang \"AI có thể giúp chúng ta làm tốt hơn như thế nào?\". Sự nhấn mạnh vào AI có đạo đức, độ chính xác và an toàn đang ngày càng tăng.</p>"
+        },
+        "7": {
+            "title": "Năng lượng Nhiệt hạch: Dương tính ròng trong 10 Phút",
+            "date": "07 Th12, 2025",
+            "category": "Năng lượng",
+            "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200",
+            "content": "<p class=\"lead\">Chúng ta đang tiến một bước gần hơn đến năng lượng sạch vô hạn. Lò phản ứng ITER đã duy trì plasma dương tính ròng trong 10 phút, phá vỡ kỷ lục trước đó chỉ vài giây.</p><p>Năng lượng nhiệt hạch mô phỏng quá trình cung cấp năng lượng cho mặt trời, hợp nhất các hạt nhân nguyên tử để giải phóng lượng năng lượng khổng lồ mà không có chất thải phóng xạ tồn tại lâu dài. Đạt được 'năng lượng ròng'—lấy ra nhiều năng lượng hơn bạn đưa vào—đã là chén thánh của vật lý trong 50 năm.</p><blockquote>\"Chúng ta đã thắp sáng một ngôi sao trên Trái đất, và giữ cho nó cháy.\"</blockquote><h2>Năng lượng có thể Mở rộng</h2><p>Trọng tâm hiện chuyển sang khả năng mở rộng. Các công ty khởi nghiệp như Helion và Commonwealth Fusion Systems đang chạy đua để xây dựng các lò phản ứng nhỏ hơn, hiệu quả hơn sử dụng chất siêu dẫn nhiệt độ cao.</p><img src=\"https://images.unsplash.com/photo-1518364538800-6bae3c2dbd9d?w=800\" alt=\"Lò phản ứng Nhiệt hạch\" class=\"article-image\"><h2>Tương lai Không Carbon</h2><p>Nếu thành công, nhiệt hạch có thể cung cấp năng lượng phụ tải cơ sở để bổ sung cho năng lượng tái tạo, loại bỏ hoàn toàn nhu cầu về nhiên liệu hóa thạch.</p>"
+        },
+        "6": {
+            "title": "Hiệp ước AI Toàn cầu: Các Quốc gia Ký kết Hiệp ước An toàn",
+            "date": "06 Th12, 2025",
+            "category": "Chính sách",
+            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200",
+            "content": "<p class=\"lead\">Trong một hội nghị thượng đỉnh lịch sử tại Bletchley Park, 150 quốc gia đã đồng ý về một bộ quy định thống nhất cho sự phát triển AI tiên tiến, đánh dấu một bước ngoặt trong quản trị công nghệ toàn cầu.</p><p>Hiệp ước, được gọi là \"Hiệp ước Bletchley\", thiết lập các lằn ranh đỏ cho sự phát triển AI, bao gồm lệnh cấm vũ khí sát thương tự hành và trách nhiệm nghiêm ngặt đối với các thiết kế vũ khí sinh học do AI tạo ra. Nó cũng tạo ra một cơ quan giám sát quốc tế.</p><h2>Cân bằng An toàn và Đổi mới</h2><p>Các nhà phê bình cho rằng các quy định có thể kìm hãm sự đổi mới nguồn mở, củng cố quyền lực của các độc quyền công nghệ lớn. Tuy nhiên, những người ủng hộ cho rằng nếu không có rào chắn, những rủi ro hiện sinh do Siêu trí tuệ sai lệch gây ra là quá lớn để bỏ qua.</p><img src=\"https://images.unsplash.com/photo-1526304640152-d4619684e7ad?w=800\" alt=\"Hội nghị Toàn cầu\" class=\"article-image\"><span class=\"caption\">Các nhà lãnh đạo tập trung để ký hiệp ước lịch sử.</span><h2>Thách thức Xác minh</h2><p>Phần khó nhất sẽ là thực thi. Làm thế nào để bạn xác minh những gì một mô hình đang làm bên trong một h hộp đen?</p>"
+        },
+        "5": {
+            "title": "Vắc-xin Ung thư: Thử nghiệm mRNA cho thấy Hiệu quả 90%",
+            "date": "05 Th12, 2025",
+            "category": "Y học",
+            "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200",
+            "content": "<p class=\"lead\">Công nghệ đã cứu thế giới khỏi đại dịch giờ đây đang lật ngược tình thế chống lại ung thư. Vắc-xin ung thư cá nhân hóa mRNA của Moderna đã giảm 90% khả năng tái phát u hắc tố trong các thử nghiệm Giai đoạn 3.</p><p>Không giống như vắc-xin truyền thống ngăn ngừa nhiễm trùng, vắc-xin trị liệu này huấn luyện hệ thống miễn dịch săn lùng các tế bào ung thư hiện có. Các bác sĩ lấy sinh thiết khối u của bệnh nhân, giải trình tự DNA của nó để tìm các đột biến độc đáo.</p><blockquote>\"Chúng ta đang bước vào kỷ nguyên của y học lập trình được. Đây chỉ là sự khởi đầu.\"</blockquote><h2>Mở rộng sang Ung thư Tuyến tụy</h2><p>Được khuyến khích bởi những kết quả này, các thử nghiệm đang mở rộng để nhắm mục tiêu ung thư tuyến tụy và phổi, vốn nổi tiếng là khó điều trị.</p><img src=\"https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800\" alt=\"Nghiên cứu Phòng thí nghiệm\" class=\"article-image\"><h2>Một Mô hình Mới</h2><p>Cách tiếp cận này đại diện cho sự thay đổi từ các phương pháp điều trị 'đốt và chém' như hóa trị sang liệu pháp miễn dịch chính xác.</p>"
+        },
+        "4": {
+            "title": "Taxi Bay: Joby Aviation Khởi chạy Thương mại",
+            "date": "04 Th12, 2025",
+            "category": "Giao thông",
+            "image": "https://images.unsplash.com/photo-1559297434-fae8a1916a79?w=1200",
+            "content": "<p class=\"lead\">Việc đi lại của tương lai đã đến. Bây giờ bạn có thể đặt taxi bay điện từ Tân Sơn Nhất đến Quận 1 với giá của một chuyến GrabCar Plus.</p><p>Joby Aviation đã chính thức ra mắt dịch vụ thương mại của mình. Máy bay cất cánh và hạ cánh thẳng đứng bằng điện (eVTOL) của họ đủ yên tĩnh để hạ cánh trên các mái nhà thành phố mà không làm phiền hàng xóm. Với phạm vi hoạt động 100 dặm và tốc độ 200 dặm/giờ, chúng biến 90 phút di chuyển giờ cao điểm thành chuyến bay ngắm cảnh 7 phút.</p><h2>Uber của Bầu trời</h2><p>Quy trình đặt vé rất liền mạch. Hành khách sử dụng ứng dụng để đặt chuyến đi đa phương thức: ô tô đón họ, chở họ đến 'sân bay thẳng đứng' gần đó, họ bay qua thành phố và một ô tô khác đưa họ đến điểm đến cuối cùng.</p><img src=\"https://images.unsplash.com/photo-1524311899532-a5417849e75e?w=800\" alt=\"Thành phố Trên không\" class=\"article-image\"><h2>An toàn và Quy định</h2><p>FAA đã chứng nhận máy bay theo tiêu chuẩn an toàn của máy bay thương mại. Mặc dù hiện tại có phi công, lộ trình là dành cho các chuyến bay hoàn toàn tự động vào năm 2028.</p>"
+        },
+        "3": {
+            "title": "Lực lượng lao động Robot: Atlas 2.0 Vào Nhà máy",
+            "date": "03 Th12, 2025",
+            "category": "Robot",
+            "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200",
+            "content": "<p class=\"lead\">Sự nhanh nhẹn kỳ lạ của robot Boston Dynamics đã chuyển từ các video lan truyền trên YouTube sang sàn nhà máy. Atlas 2.0 hiện đang làm việc cùng với con người trong các nhà máy BMW và Tesla.</p><p>Không giống như robot công nghiệp truyền thống được bắt vít xuống sàn và nhốt trong lồng để an toàn, Atlas là một công nhân đa năng hình người. Nó đi bằng hai chân, có đôi tay khéo léo và sử dụng thị giác AI để điều hướng trong môi trường lộn xộn, năng động.</p><blockquote>\"Robot không còn là công cụ; nó là đồng đội.\"</blockquote><h2>Giải pháp Thiếu hụt Lao động?</h2><p>Những người ủng hộ cho rằng robot hình người là điều cần thiết để lấp đầy sự thiếu hụt lao động lớn trong sản xuất và logistics. Với dân số già hóa ở nhiều quốc gia phát triển, đơn giản là không có đủ công nhân con người để duy trì tăng trưởng kinh tế.</p><img src=\"https://images.unsplash.com/photo-1535378437326-6d5df7264cc9?w=800\" alt=\"Công nhân Robot\" class=\"article-image\"><h2>Sự thay đổi Kinh tế</h2><p>Sự chuyển đổi này chắc chắn sẽ làm gián đoạn thị trường lao động. Chúng ta có thể sẽ thấy sự thay đổi nơi vai trò của con người chuyển từ lao động chân tay sang 'giám sát robot' và bảo trì.</p>"
+        },
+        "2": {
+            "title": "Bụi Thông minh: Cuộc cách mạng Cảm biến",
+            "date": "02 Th12, 2025",
+            "category": "IoT",
+            "image": "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=1200",
+            "content": "<p class=\"lead\">Sẽ thế nào nếu chính môi trường có thể nói chuyện? Các cảm biến siêu nhỏ kích thước hạt cát, được gọi là 'Bụi Thông minh', đang được triển khai để theo dõi nhịp đập của hành tinh.</p><p>Những thiết bị nhỏ bé này, hay 'mote', chứa cảm biến, sức mạnh tính toán và giao tiếp không dây. Chúng đang được thả bởi máy bay không người lái vào các khu rừng để phát hiện cháy rừng trước khi chúng lan rộng, rải trên đất nông nghiệp để theo dõi độ ẩm đất cho nông nghiệp chính xác.</p><h2>Được cung cấp năng lượng bởi Không khí</h2><p>Đột phá nằm ở năng lượng. Bụi Thông minh không sử dụng pin. Thay vào đó, nó thu hoạch năng lượng từ sóng vô tuyến xung quanh, rung động hoặc chênh lệch nhiệt độ. Điều này cho phép chúng hoạt động vô thời hạn mà không cần bảo trì.</p><img src=\"https://images.unsplash.com/photo-1518770660439-4636190af475?w=800\" alt=\"Vi mạch\" class=\"article-image\"><h2>Lo ngại về Quyền riêng tư</h2><p>Sự phổ biến của các cảm biến vô hình tự nhiên làm dấy lên những lo ngại về giám sát. Nếu các bức tường có tai (và cảm biến), quyền riêng tư trở nên khó đảm bảo.</p>"
+        },
+        "1": {
+            "title": "Màn hình Ba chiều: 3D Thực sự Không cần Kính",
+            "date": "01 Th12, 2025",
+            "category": "Phần cứng",
+            "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=1200",
+            "content": "<p class=\"lead\">Giấc mơ về ảnh ba chiều kiểu Star Wars cuối cùng đã thành hiện thực. Một công nghệ màn hình 'Trường ánh sáng' mới tạo ra các hình ảnh 3D riêng biệt có thể nhìn thấy bằng mắt thường từ mọi góc độ.</p><p>Được phát triển bởi một công ty con từ MIT, màn hình sử dụng các lớp LCD và thuật toán phức tạp để chiếu các tia sáng chính xác như cách chúng phản chiếu từ một vật thể thực. Khi bạn di chuyển quanh màn hình, mắt bạn nhìn thấy phối cảnh chính xác, tạo ra ảo ảnh hoàn hảo về chiều sâu và thể tích mà không cần kính 3D hay thiết bị đeo đầu.</p><blockquote>\"Nó giống như nhìn qua cửa sổ vào một thế giới khác. Vật thể kỹ thuật số cảm thấy hiện diện vật lý.\"</blockquote><h2>Cách mạng Y tế và Thiết kế</h2><p>Các kiến trúc sư đang sử dụng nó để giới thiệu các mô hình tòa nhà giữa không trung, cho phép khách hàng đi bộ xung quanh và nhìn vào bên trong. Các bác sĩ phẫu thuật đang sử dụng nó để trực quan hóa các bản quét MRI dưới dạng 3D trước khi phẫu thuật.</p><img src=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800\" alt=\"Công nghệ Tương lai\" class=\"article-image\"><h2>Áp dụng cho Người tiêu dùng</h2><p>Mặc dù hiện tại đắt tiền và nhắm mục tiêu vào người dùng doanh nghiệp, các phiên bản cho người tiêu dùng dự kiến sẽ có trong vòng 3-5 năm tới.</p>"
+        }
+    }
+}

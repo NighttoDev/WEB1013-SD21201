@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Thông Tin Cá Nhân</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Form Thông Tin Cá Nhân</h1>
+        <form>
+            <!-- Section 1: Thông Tin Cá Nhân -->
+            <div class="section">
+                <h2>Thông Tin Cá Nhân</h2>
+                
+                <div class="form-group">
+                    <label for="fullName">Họ và Tên:</label>
+                    <input type="text" id="fullName" name="fullName" placeholder="Nhập họ và tên của bạn" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="password">Mật khẩu:</label>
+                    <input type="password" id="password" name="password" placeholder="Nhập mật khẩu" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="example@domain.com" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="dateOfBirth">Ngày sinh:</label>
+                    <div class="date-input-wrapper">
+                        <input type="text" id="dateOfBirth" name="dateOfBirth" placeholder="dd/mm/yyyy" required>
+                        <span class="calendar-icon">📅</span>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="favoriteColor">Màu yêu thích:</label>
+                    <input type="color" id="favoriteColor" name="favoriteColor" value="#ff0000">
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <input type="checkbox" id="agreeTerms" name="agreeTerms">
+                    <label for="agreeTerms">Tôi đồng ý với các điều khoản</label>
+                </div>
+                
+                <div class="form-group">
+                    <label for="avatar">Ảnh đại diện:</label>
+                    <div class="file-input-wrapper">
+                        <input type="file" id="avatar" name="avatar" accept="image/*">
+                        <span class="file-chosen">No file chosen</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Section 2: Thông Tin Bổ Sung -->
+            <div class="section">
+                <h2>Thông Tin Bổ Sung</h2>
+                
+                <div class="form-group">
+                    <label for="satisfaction">Mức độ hài lòng (0-100):</label>
+                    <div class="range-wrapper">
+                        <input type="range" id="satisfaction" name="satisfaction" min="0" max="100" value="50">
+                        <span class="range-value">50</span>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="gender">Giới tính:</label>
+                    <div class="select-wrapper">
+                        <select id="gender" name="gender" required>
+                            <option value="">Chọn giới tính</option>
+                            <option value="male">Nam</option>
+                            <option value="female">Nữ</option>
+                            <option value="other">Khác</option>
+                        </select>
+                        <span class="select-arrow">▼</span>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="occupation">Nghề nghiệp:</label>
+                    <input type="text" id="occupation" name="occupation" placeholder="Chọn hoặc nhập nghề nghiệp">
+                </div>
+                
+                <div class="form-group">
+                    <label for="about">Giới thiệu bản thân:</label>
+                    <textarea id="about" name="about" placeholder="Viết một vài dòng giới thiệu về bản thân..." rows="4"></textarea>
+                </div>
+            </div>
+            
+            <!-- Action Buttons -->
+            <div class="button-group">
+                <button type="submit" class="btn-submit-large" disabled>Submit</button>
+                <button type="submit" class="btn-send">Gửi Thông Tin</button>
+                <button type="button" class="btn-preview">Xem Trước</button>
+            </div>
+        </form>
+    </div>
+    
+    <script>
+        // Update range value display
+        const satisfactionInput = document.getElementById('satisfaction');
+        const rangeValue = document.querySelector('.range-value');
+        
+        satisfactionInput.addEventListener('input', function() {
+            rangeValue.textContent = this.value;
+        });
+        
+        // Update file chosen text
+        const avatarInput = document.getElementById('avatar');
+        const fileChosen = document.querySelector('.file-chosen');
+        
+        avatarInput.addEventListener('change', function() {
+            if (this.files.length > 0) {
+                fileChosen.textContent = this.files[0].name;
+            } else {
+                fileChosen.textContent = 'No file chosen';
+            }
+        });
+    </script>
+</body>
+</html>

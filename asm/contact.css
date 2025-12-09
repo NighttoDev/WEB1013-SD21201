@@ -1,0 +1,157 @@
+/* =========================================
+   9. CONTACT PAGE
+   ========================================= */
+.contact-section {
+    padding: 4rem 0 6rem;
+}
+
+.contact-header {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.section-subtitle {
+    font-size: 0.8rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #888;
+    margin-bottom: 1rem;
+}
+
+.section-title-serif {
+    font-family: var(--font-serif);
+    font-size: 3.5rem;
+    color: #fff;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+
+.contact-desc {
+    color: #888;
+    font-size: 1rem;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact-form-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    background: rgba(10, 10, 10, 0.6);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 3rem;
+    border-radius: 20px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.form-group label {
+    font-size: 0.9rem;
+    color: #fff;
+    font-weight: 500;
+}
+
+.input-with-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.input-with-icon i {
+    position: absolute;
+    left: 1.2rem;
+    color: #666;
+    font-size: 1rem;
+    pointer-events: none;
+    transition: color 0.3s ease;
+}
+
+.input-with-icon .select-arrow {
+    left: auto;
+    right: 1.2rem;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    background: transparent;
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 14px 18px;
+    color: #fff;
+    font-family: var(--font-main);
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+.form-group input,
+.form-group select {
+    padding-left: 3.2rem;
+    /* Space for icon */
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #666;
+    background: rgba(255, 255, 255, 0.02);
+}
+
+.form-group input:focus+i,
+.form-group select:focus+i {
+    color: #fff;
+}
+
+.form-group textarea {
+    resize: vertical;
+    padding: 1rem;
+    background: transparent;
+}
+
+.btn.full-width {
+    width: 100%;
+    padding: 16px;
+    background: #fff;
+    color: #000;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 6px;
+    margin-top: 1rem;
+}
+
+.btn.full-width:hover {
+    background: #e0e0e0;
+}
+
+@media (max-width: 768px) {
+    .section-title-serif {
+        font-size: 2.5rem;
+    }
+
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+}

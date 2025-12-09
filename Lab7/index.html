@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 7 - Media Embedding</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Lab 7 - Media Embedding</h1>
+        
+        <!-- Audio Section -->
+        <section class="media-section">
+            <h2>Audio (.mp3)</h2>
+            <audio controls>
+                <source src="Assets/m52mzlodtUYIHiF7U8P2RvZ1ogiafOk0pRjfIFbM.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+        </section>
+        
+        <!-- Video Section -->
+        <section class="media-section">
+            <h2>Video (.mp4)</h2>
+            <p class="note">Video tự động phát và tắt tiếng khi load trang</p>
+            <video controls muted autoplay>
+                <source src="Assets/7057612544913.mp4" type="video/mp4">
+                Your browser does not support the video element.
+            </video>
+        </section>
+        
+        <!-- YouTube Video Section -->
+        <section class="media-section">
+            <h2>Video từ YouTube</h2>
+            <p class="note">Video tự động phát, tắt tiếng và ẩn thanh công cụ</p>
+            <div class="youtube-wrapper">
+                <iframe width="1011" height="569" src="https://www.youtube.com/embed/MfwdchNNW78" title="🔴 SwiftUI Threads Clone | iOS 17 | async/await | Firebase | 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+

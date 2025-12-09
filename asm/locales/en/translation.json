@@ -1,0 +1,245 @@
+{
+    "nav_home": "Home",
+    "nav_about": "About",
+    "nav_skills": "Skills & Projects",
+    "nav_blog": "Blog",
+    "nav_contact": "Contact",
+    "lang_vi": "Tiếng Việt",
+    "lang_en": "English",
+    "lang_label": "Language",
+    "hero_role": "Backend Development Website • Website Designer",
+    "hero_desc": "I am Khoa Tran, studying Website Development at FPT Polytechnic. My work focuses on web design and web development. Here, I will present my major and projects.",
+    "hero_welcome": "Welcome to Khoa Tran’s Website.",
+    "btn_view_projects": "View Projects",
+    "btn_cv": "CV",
+    "info_education": "Education",
+    "info_major": "Website Development",
+    "info_school": "FPT Polytechnic",
+    "date_present": "2023 - Present",
+    "info_experience": "Experience",
+    "info_job": "Web Designer & Developer",
+    "info_freelance": "Freelance",
+    "info_skills": "Skills",
+    "section_featured_articles": "Featured Articles",
+    "btn_view_all_posts": "View All Posts",
+    "read_more": "Read More",
+    "about_hero_role": "Backend Development Website • Website Designer",
+    "bio_greeting": "Hello, I am Khoa Tran, a student majoring in Website Development at FPT Polytechnic. I am a freelance web designer and a technology enthusiast. I am aiming to become a Fullstack Developer and fulfill many more dreams ahead.",
+    "bio_quote": "The future belongs to those who believe in the beauty of their dreams...",
+    "bio_text": "A little more about myself, I live and work in Da Nang. I love exploring new things, challenging myself, and constantly learning more. I have decent skills in both art and technology, not innate talent, but I feel I have achieved them through my own efforts.<br><br>Besides, I also love filming and photography, like, I want to convey to the world what I see through the magical lens of a camera.",
+    "auth_label": "Author of this website.",
+    "edu_title": "FPT Polytechnic Da Nang",
+    "edu_desc": "Major in Web Development. Focusing on backend technologies and Fullstack development.",
+    "exp_freelance_title": "Freelance Web Developer",
+    "exp_freelance_place": "Self-employed",
+    "exp_freelance_desc": "Building responsive web applications and landing pages for various clients.",
+    "exp_intern_title": "Frontend Intern",
+    "exp_intern_place": "Tech Solutions Inc.",
+    "exp_intern_desc": "Developing user interfaces using React and improving website performance.",
+    "gallery_title": "Locket Library",
+    "gallery_subtitle": "A collection of memories, places, and little things that inspire me.",
+    "skills_header": "Tech Stack & Skills",
+    "cat_languages": "Languages",
+    "cat_frameworks": "Frameworks & Libraries",
+    "cat_tools": "Tools",
+    "cat_databases": "Databases",
+    "cat_design": "Design & Media",
+    "projects_header": "Projects",
+    "projects": {
+        "1": {
+            "title": "Note To Get Your Goal",
+            "description": "Smart Notes & Goal Management System that allows users (especially students) to create, manage, and track their personal goals on a daily basis, by term, or by course.",
+            "tech": [
+                "Vue.js",
+                "Laravel",
+                "Docker",
+                "CI/CD",
+                "GitHub Actions"
+            ],
+            "role": "Leader, PM, Backend Dev",
+            "members": "5 members",
+            "date": "Present",
+            "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&auto=format&fit=crop&q=60"
+        },
+        "2": {
+            "title": "TedeShop Electronic",
+            "description": "An e-commerce website for electronic technology devices with full basic features, built using the MVC model.",
+            "tech": [
+                "MVC Pattern",
+                "PHP",
+                "MySQL",
+                "JavaScript"
+            ],
+            "role": "Member (Model & Interface)",
+            "members": "6 members",
+            "date": "Oct 2024 - Dec 2024",
+            "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=800&auto=format&fit=crop&q=60"
+        },
+        "3": {
+            "title": "Book-reading Website",
+            "description": "A platform that offers a variety of famous and high-quality books for online reading.",
+            "tech": [
+                "MVC Pattern",
+                "PHP",
+                "MySQL"
+            ],
+            "role": "Leader",
+            "members": "1 member",
+            "date": "Oct 2024 - Dec 2024",
+            "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=60"
+        }
+    },
+    "blog_hero_eyebrow": "My Blog",
+    "blog_hero_title": "My Stories & Ideas",
+    "blog_hero_subtitle": "The latest writings, news, technologies, and resources from me.",
+    "filter_all": "All",
+    "filter_writing": "Writing",
+    "filter_tutorials": "Tutorials",
+    "section_recent_posts": "Recent Posts",
+    "section_all_posts": "All blog posts",
+    "contact_subtitle": "GET IN TOUCH",
+    "contact_title": "Contact Me",
+    "contact_desc": "Have a question or want to work together? I'd love to hear from you.",
+    "label_name": "Your name",
+    "label_email": "Email",
+    "label_phone": "Phone (Optional)",
+    "label_company": "Company (Optional)",
+    "label_category": "Category",
+    "label_subject": "Subject",
+    "label_message": "Message",
+    "btn_send": "Send Message",
+    "opt_general": "General Inquiry",
+    "opt_project": "Project Collaboration",
+    "opt_freelance": "Freelance",
+    "opt_other": "Other",
+    "ph_name": "Your Name",
+    "ph_email": "example@abc.com",
+    "ph_phone": "+84 123 456 789",
+    "ph_company": "Your company name",
+    "ph_subject": "Subject",
+    "ph_message": "Your message...",
+    "cv_title": "Resume",
+    "btn_download_cv": "Download CV",
+    "footer_desc": "Backend Developer Website building beautiful web experiences. Sharing knowledge and journey through code.",
+    "footer_explore": "Explore",
+    "footer_project": "Project",
+    "footer_blog": "Blog",
+    "footer_photo": "Photo",
+    "footer_about": "About Me",
+    "footer_showcase": "Showcase",
+    "footer_connect": "Connect",
+    "footer_resume": "Resume",
+    "footer_email": "Email Me",
+    "footer_rights": "© 2025 Khoa Tran. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Service",
+    "back_to_blog": "Back to Blog",
+    "author_role": "Author & Developer",
+    "blog_posts": {
+        "15": {
+            "title": "Quantum Supremacy 2.0: The End of Encryption?",
+            "date": "Dec 15, 2025",
+            "category": "Quantum",
+            "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200",
+            "content": "<p class=\"lead\">The quantum revolution isn't coming; it's here. A new 10,000 qubit processor has just shattered previous records, reaching a milestone known as 'Quantum Supremacy 2.0'.</p><p>For decades, RSA encryption has been the backbone of internet security, protecting everything from bank transactions to state secrets. But with this week's announcement from the Quantum Alliance, that safety net is fraying. The new chip, dubbed 'Q-Core X', demonstrated the ability to factor large prime numbers at speeds previously thought impossible for the next twenty years.</p><blockquote>\"We are standing at the precipice of a cryptographic winter. If we don't migrate to post-quantum algorithms now, our data is already compromised.\"</blockquote><h2>The Race for Post-Quantum Cryptography</h2><p>The cybersecurity world is now in a frantic race to implement post-quantum cryptography (PQC) standards. NIST has fast-tracked several algorithms designed to resist quantum attacks, but upgrading the entire global infrastructure is a monumental task. Banks, governments, and tech giants are scrambling to audit their systems.</p><img src=\"https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=800\" alt=\"Quantum Chip\" class=\"article-image\"><span class=\"caption\">The Q-Core X chip uses a photonic lattice architecture to minimize noise.</span><h2>What This Means for You</h2><p>For the average user, the immediate impact is minimal, but the long-term implications are vast. Your encrypted messages from ten years ago could potentially be decrypted today. This concept, known as \"store now, decrypt later,\" is driving the urgency. Expect to see 'Quantum-Safe' badges appearing on your banking apps and secure messengers very soon.</p>"
+        },
+        "14": {
+            "title": "The Rise of Specialized Small Language Models",
+            "date": "Dec 14, 2025",
+            "category": "AI & Tech",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200",
+            "content": "<p class=\"lead\">Bigger isn't always better. While GPT-5 dominates headlines, a quiet revolution is happening on your local device: the rise of Small Language Models (SLMs).</p><p>For years, the trend in AI was to build massive models with trillions of parameters, requiring data centers the size of football fields. However, 2024 has seen a pivot towards efficiency. New models like Phi-4 and Llama-Mini are delivering GPT-3.5 level performance while running entirely offline on a high-end smartphone.</p><blockquote>\"Privacy is the killer app for AI. Users want intelligence without sending their personal data to the cloud.\"</blockquote><h2>Edge Computing's Moment</h2><p>This shift enables 'Edge AI' – intelligent applications that run locally. Imagine a voice assistant that knows your schedule, health data, and emails but never sends a single byte to a central server. This dramatically reduces latency and addresses privacy concerns that have plagued cloud-based assistants.</p><img src=\"https://images.unsplash.com/photo-1555618254-76a8a47ad23f?w=800\" alt=\"Mobile AI\" class=\"article-image\"><span class=\"caption\">SLMs are bringing powerful AI capabilities to mobile devices.</span><h2>Eco-Friendly Intelligence</h2><p>Another driving factor is energy consumption. Training and running massive models is incredibly energy-intensive. SLMs offer a sustainable alternative, reducing the carbon footprint of AI inference by orders of magnitude. As the world becomes more conscious of the environmental cost of compute, SLMs are positioned to become the industry standard for everyday tasks.</p>"
+        },
+        "13": {
+            "title": "SpaceX Starship: Humanity's Gateway to Mars",
+            "date": "Dec 13, 2025",
+            "category": "Space",
+            "image": "https://images.unsplash.com/photo-1541873676-a18131494184?w=1200",
+            "content": "<p class=\"lead\">The dream of a multi-planetary species is rapidly becoming reality. SpaceX's Starship has successfully completed its orbital refueling test, a crucial step for deep space missions.</p><p>Standing taller than the Saturn V, Starship is the largest flying object ever built. Its fully reusable design promises to lower the cost of launching payloads to orbit from thousands of dollars per kilogram to just tens of dollars. This week's successful test proved that propellant can be transferred between ships in zero gravity, unlocking the ability to travel to the Moon, Mars, and beyond.</p><blockquote>\"We are building the railroad to the stars. Once the infrastructure is in place, the possibilities are endless.\"</blockquote><h2>The Mars Fleet</h2><p>Elon Musk has announced plans to launch a fleet of five unmanned Starships to Mars in the next launch window. These ships will deliver essential supplies, habitats, and energy generation equipment in preparation for the first human explorers. The timeline is aggressive, but the recent successes have silenced many critics.</p><img src=\"https://images.unsplash.com/photo-1517976487492-5750f3195933?w=800\" alt=\"Starship Launch\" class=\"article-image\"><span class=\"caption\">Starship lifting off from Starbase, Texas.</span><h2>Beyond Mars</h2><p>While Mars is the headline, Starship's capacity opens up the entire solar system. Massive space telescopes, industrial space stations, and asteroid mining operations are now theoretically and economically feasible. We are witnessing the beginning of a true space-faring civilization.</p>"
+        },
+        "12": {
+            "title": "Solid State Batteries: The EV Revolution's Holy Grail",
+            "date": "Dec 12, 2025",
+            "category": "Energy",
+            "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1200",
+            "content": "<p class=\"lead\">Range anxiety might soon be a relic of the past. Toyota and Panasonic have unveiled a production-ready solid-state battery that offers 1,200km of range.</p><p>Current lithium-ion batteries use a liquid electrolyte, which is heavy, flammable, and limits charging speed. Solid-state batteries replace this with a solid material, allowing for higher energy density and improved safety. The new prototype charges from 10% to 80% in just 9 minutes, rivaling the time it takes to fill a gas tank.</p><h2>Transforming the Grid</h2><p>It's not just about cars. These batteries are stable enough for long-term grid storage, smoothing out the fluctuations of renewable energy sources like wind and solar. This could be the missing piece of the puzzle for a 100% renewable energy grid.</p><img src=\"https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=800\" alt=\"Battery Technology\" class=\"article-image\"><h2>The Cost Hurdle</h2><p>The only remaining barrier is manufacturing cost. Currently, producing solid-state batteries is significantly more expensive than traditional cells. However, with major investments from governments and automakers, economies of scale are expected to drive prices down rapidly over the next three years.</p><blockquote>\"This is the transitor moment for energy storage. Everything changes from here.\"</blockquote>"
+        },
+        "11": {
+            "title": "Neuralink's Human Trials: Restoring Sight",
+            "date": "Dec 11, 2025",
+            "category": "Biotech",
+            "image": "https://images.unsplash.com/photo-1555618254-76a8a47ad23f?w=1200",
+            "content": "<p class=\"lead\">Science fiction is becoming medical fact. Neuralink's 'Blindsight' implant has successfully restored rudimentary vision in a patient blind from birth.</p><p>The device bypasses the eyes entirely, connecting a camera directly to the visual cortex of the brain. While the current resolution is low—likened to early 8-bit graphics—it proves that the brain can learn to interpret direct digital signals as sensory input. The patient, formerly unable to perceive light, can now navigate a room and identify shapes.</p><h2>How It Works</h2><p>The implant consists of thousands of microscopic electrodes that stimulate specific neurons. Over time, the brain's plasticity allows it to map these electrical impulses to spatial awareness. Future iterations promise higher resolution and even the ability to see in infrared or ultraviolet spectrums.</p><img src=\"https://images.unsplash.com/photo-1581093458891-b9f72e627e10?w=800\" alt=\"Brain Interface\" class=\"article-image\"><h2>Ethical Questions</h2><p>As with all powerful technologies, this raises profound ethical questions. If we can input vision, can we input memories? Or advertisements? Regulators are struggling to keep up with the pace of neurotechnology, calling for a global framework on cognitive liberty.</p>"
+        },
+        "10": {
+            "title": "6G Networks: The Internet of Senses",
+            "date": "Dec 10, 2025",
+            "category": "Connectivity",
+            "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200",
+            "content": "<p class=\"lead\">Forget 4K streaming. 6G is designed to transmit touch, smell, and holographic presence instantly.</p><p>While 5G is still rolling out globally, standards bodies are finalizing the specs for 6G, expected to launch commercially by 2030. Operating in the terahertz frequency bands, 6G promises speeds 100 times faster than 5G and near-zero latency. This isn't just about faster downloads; it's about merging the physical and digital worlds.</p><blockquote>\"6G will digitize the physical world. We will move from the internet of things to the internet of intelligence.\"</blockquote><h2>Holographic Communication</h2><p>With 6G, high-fidelity volumetric video (holograms) will become standard. Remote workers could sit around a virtual table and feel as if they are physically present. Surgeons could perform operations remotely with haptic feedback gloves that transmit the exact texture and resistance of tissue in real-time.</p><img src=\"https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800\" alt=\"Global Network\" class=\"article-image\"><h2>Infrastructure Challenges</h2><p>The challenge lies in physics. Terahertz waves have very short range and are easily blocked by walls or even rain. This will require a dense mesh of millions of small antennas, essentially turning almost every surface in a city into a network node.</p>"
+        },
+        "9": {
+            "title": "The Ocean Cleanup: Victory in the Pacific",
+            "date": "Dec 09, 2025",
+            "category": "Green Tech",
+            "image": "https://images.unsplash.com/photo-1621451537084-482c73073a0f?w=1200",
+            "content": "<p class=\"lead\">The Great Pacific Garbage Patch is shrinking. The Ocean Cleanup project has declared its 'System 003' a resounding success.</p><p>Using massive u-shaped floating barriers guided by AI, the system concentrates plastic waste for extraction. In just six months, the latest deployment has removed over 200 tons of debris, ranging from abandoned fishing nets to microplastics. The organization now projects that with a full fleet, the patch could be gone by 2040.</p><h2>Turning Trash into Treasure</h2><p>What happens to the plastic? It's brought back to shore and recycled into durable goods like sunglasses and car parts. The proceeds from these products help fund the cleanup operations, creating a circular economic model for environmental restoration.</p><img src=\"https://images.unsplash.com/photo-1611273426728-c009d9eb5d8a?w=800\" alt=\"Ocean Plastic\" class=\"article-image\"><h2>River Interceptors</h2><p>Stopping the flow at the source is equally important. The project continues to deploy 'Interceptors'—solar-powered barges—in the world's most polluting rivers. These autonomous vessels collect trash before it ever reaches the ocean, proving that technology can heal the planet.</p>"
+        },
+        "8": {
+            "title": "Generative AI: From Experiment to Essential Utility",
+            "date": "Dec 08, 2025",
+            "category": "AI & Tech",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200",
+            "content": "<p class=\"lead\">2024 marked the year Generative AI transitioned from a novelty to a fundamental layer of modern technology. It's no longer just about generating funny images; it's about reshaping workflows across every industry.</p><blockquote>\"AI is becoming the new electricity, powering applications we use every single day without us even noticing.\"</blockquote><p>Generative AI emerged as a foundational technology in 2024, moving beyond experimental use to become an integral part of daily life and business operations. Companies like Google and Microsoft embedded AI capabilities into their mainstream applications.</p><h2>Integration Everywhere</h2><p>Microsoft integrated GPT-4 into its Microsoft 365 platform for tasks such as drafting documents, analyzing spreadsheets, and summarizing meetings. This seamless integration means that millions of users are now leveraging advanced AI without needing to be tech experts.</p><p>Similarly, Google has woven AI into its workspace tools, enhancing productivity and creativity. The ability to generate text, images, and even code on the fly is democratizing content creation.</p><img src=\"https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800\" alt=\"AI Integration\" class=\"article-image\"><span class=\"caption\">AI is now weaving into the fabric of our digital tools.</span><h2>The Future Outlook</h2><p>As we move forward, the focus is shifting from \"what can AI do?\" to \"how can AI help us do better?\". The emphasis on ethical AI, accuracy, and safety is growing, ensuring that these powerful tools are used responsibly.</p>"
+        },
+        "7": {
+            "title": "Fusion Energy: Net Positive for 10 Minutes",
+            "date": "Dec 07, 2025",
+            "category": "Energy",
+            "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200",
+            "content": "<p class=\"lead\">We are one step closer to unlimited clean energy. The ITER reactor has sustained a net-positive plasma for 10 minutes, shattering previous records of just a few seconds.</p><p>Fusion energy mimics the process that powers the sun, merging atomic nuclei to release massive amounts of energy without long-lived radioactive waste. Achieving 'net energy'—getting more power out than you put in—has been the holy grail of physics for 50 years. This breakthrough proves that sustained, commercial fusion is an engineering challenge, not a theoretical impossibility.</p><blockquote>\"We have lit a star on Earth, and kept it burning.\"</blockquote><h2>Scalable Power</h2><p>The focus now shifts to scalability. Startups like Helion and Commonwealth Fusion Systems are racing to build smaller, more efficient reactors using high-temperature superconductors. Unlike the massive ITER project, these private ventures aim to put fusion power on the grid within the decade.</p><img src=\"https://images.unsplash.com/photo-1518364538800-6bae3c2dbd9d?w=800\" alt=\"Fusion Reactor\" class=\"article-image\"><h2>A Zero-Carbon Future</h2><p>If successful, fusion could provide baseload power to complement renewables, eliminating the need for fossil fuels entirely. It is the ultimate solution to climate change, providing abundant, carbon-free energy for civilization's growing needs.</p>"
+        },
+        "6": {
+            "title": "Global AI Accord: Nations Sign Safety Treaty",
+            "date": "Dec 06, 2025",
+            "category": "Policy",
+            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200",
+            "content": "<p class=\"lead\">In a historic summit at Bletchley Park, 150 nations have agreed to a unified set of regulations for advanced AI development, marking a turning point in global tech governance.</p><p>The treaty, dubbed the \"Bletchley Accord,\" establishes red lines for AI development, including a ban on autonomous lethal weapons and strict liability for AI-generated bioweapon designs. It also creates an international oversight body, similar to the IAEA for nuclear energy, to monitor large-scale training runs of frontier models.</p><h2>Balancing Safety and Innovation</h2><p>Critics argue the regulations could stifle open-source innovation, cementing the power of big tech monopolies. However, proponents argue that without guardrails, the existential risks posed by misaligned Superintelligence are too great to ignore.</p><img src=\"https://images.unsplash.com/photo-1526304640152-d4619684e7ad?w=800\" alt=\"Global Summit\" class=\"article-image\"><span class=\"caption\">Leaders gathered to sign the historic accord.</span><h2>The Verification Challenge</h2><p>The hardest part will be enforcement. How do you verify what a model is doing inside a black box? The accord mandates 'compute governance'—tracking the sale of high-end GPU chips—to ensure that no rogue actor can amass the computing power needed to train a dangerous model in secret.</p>"
+        },
+        "5": {
+            "title": "Cancer Vaccine: mRNA Trials Show 90% Efficacy",
+            "date": "Dec 05, 2025",
+            "category": "Medicine",
+            "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200",
+            "content": "<p class=\"lead\">The technology that saved the world from a pandemic is now turning the tide against cancer. Moderna's personalized mRNA cancer vaccine has reduced recurrence of melanoma by 90% in Phase 3 trials.</p><p>Unlike traditional vaccines that prevent infection, this therapeutic vaccine trains the immune system to hunt down existing cancer cells. Doctors take a biopsy of a patient's tumor, sequence its DNA to find unique mutations, and create a custom mRNA shot that teaches T-cells to recognize and destroy cells bearing those specific markers.</p><blockquote>\"We are entering the era of programmable medicine. This is just the beginning.\"</blockquote><h2>Expanding to Pancreatic Cancer</h2><p>Encouraged by these results, trials are expanding to target pancreatic and lung cancers, which are notoriously difficult to treat. While the treatment is currently expensive and requires complex manufacturing, improvements in automated synthesis are expected to lower costs and turnaround times significantly.</p><img src=\"https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800\" alt=\"Lab Research\" class=\"article-image\"><h2>A New Paradigm</h2><p>This approach represents a shift from 'slash and burn' treatments like chemotherapy to precision immunotherapy. It offers the hope of turning cancer from a deadly disease into a manageable chronic condition, or eliminating it entirely.</p>"
+        },
+        "4": {
+            "title": "Flying Taxis: Joby Aviation Commercial Launch",
+            "date": "Dec 04, 2025",
+            "category": "Transport",
+            "image": "https://images.unsplash.com/photo-1559297434-fae8a1916a79?w=1200",
+            "content": "<p class=\"lead\">The commute of the future has arrived. You can now book an electric air taxi from JFK to Manhattan for the price of an Uber Black.</p><p>Joby Aviation has officially launched its commercial service in New York and Los Angeles. Their electric vertical takeoff and landing (eVTOL) aircraft are quiet enough to land on city rooftops without disturbing neighbors. With a range of 100 miles and speeds of 200mph, they turn a 90-minute rush hour slog into a 7-minute scenic flight.</p><h2>The Uber of the Skies</h2><p>The booking process is seamless. Passengers use an app to book a multi-modal trip: a car picks them up, drives them to a nearby 'vertiport', they fly across the city, and another car takes them to their final destination. It's a vertically integrated transport network.</p><img src=\"https://images.unsplash.com/photo-1524311899532-a5417849e75e?w=800\" alt=\"Aerial City\" class=\"article-image\"><h2>Safety and Regulation</h2><p>The FAA has certified the aircraft to commercial airliner standards of safety. While currently piloted, the roadmap is for fully autonomous flights by 2028, which will further reduce costs and increase capacity. Urban mobility is about to go 3D.</p>"
+        },
+        "3": {
+            "title": "Robotic Workforce: Atlas 2.0 Enters Factories",
+            "date": "Dec 03, 2025",
+            "category": "Robotics",
+            "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200",
+            "content": "<p class=\"lead\">The eerie agility of Boston Dynamics' robots has moved from YouTube viral videos to the factory floor. Atlas 2.0 is now working alongside humans in BMW and Tesla plants.</p><p>Unlike traditional industrial robots that are bolted to the floor and caged off for safety, Atlas is a humanoid general-purpose worker. It walks on two legs, has nimble hands, and uses AI vision to navigate messy, dynamic environments. It can unload trucks, carry boxes, and perform precise assembly tasks that were previously impossible for automation.</p><blockquote>\"The robot is no longer a tool; it is a teammate.\"</blockquote><h2>Labor Shortage Solution?</h2><p>Proponents argue that humanoid robots are essential to fill the massive labor shortages in manufacturing and logistics. With aging populations in many developed nations, there simply aren't enough human workers to sustain economic growth. Robots like Atlas can work 24/7 without fatigue.</p><img src=\"https://images.unsplash.com/photo-1535378437326-6d5df7264cc9?w=800\" alt=\"Robot Worker\" class=\"article-image\"><h2>The Economic Shift</h2><p>This transition will undoubtedly disrupt the labor market. We are likely to see a shift where human roles move from manual labor to 'robot supervision' and maintenance. The definition of blue-collar work is evolving rapidly.</p>"
+        },
+        "2": {
+            "title": "Smart Dust: The Sensor Revolution",
+            "date": "Dec 02, 2025",
+            "category": "IoT",
+            "image": "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=1200",
+            "content": "<p class=\"lead\">What if the environment itself could talk? Microscopic sensors the size of a grain of sand, known as 'Smart Dust', are being deployed to monitor the planet's pulse.</p><p>These tiny devices, or 'motes', contain sensors, computing power, and wireless communication. They are being dropped by drones into forests to detect wildfires before they spread, scattered over farmland to monitor soil moisture for precision agriculture, and embedded in concrete to track the structural health of bridges.</p><h2>Powered by Thin Air</h2><p>The breakthrough lies in power. Smart Dust doesn't use batteries. Instead, it harvests energy from ambient radio waves, vibrations, or temperature differences. This allows them to operate indefinitely without maintenance, creating a permanent, invisible nervous system for the physical world.</p><img src=\"https://images.unsplash.com/photo-1518770660439-4636190af475?w=800\" alt=\"Microchip\" class=\"article-image\"><h2>Privacy Concerns</h2><p>The ubiquity of invisible sensors naturally raises surveillance concerns. If walls have ears (and sensors), privacy becomes difficult to guarantee. Regulators are currently drafting 'IoT Transparency Acts' to ensure that public spaces don't become panopticons.</p>"
+        },
+        "1": {
+            "title": "Holographic Displays: True 3D Without Glasses",
+            "date": "Dec 01, 2025",
+            "category": "Hardware",
+            "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=1200",
+            "content": "<p class=\"lead\">The dream of Star Wars-style holograms is finally real. A new 'Light Field' display technology creates distinct 3D images visible to the naked eye from any angle.</p><p>Developed by a spinoff from MIT, the display uses layers of LCDs and complex algorithms to project light rays exactly as they would bounce off a real object. As you move around the display, your eyes see the correct perspective, creating a perfect illusion of depth and volume without 3D glasses or headsets.</p><blockquote>\"It is like looking through a window into another world. The digital object feels physically present.\"</blockquote><h2>Medical and Design Revolution</h2><p>Architects are using it to showcase building models in mid-air, allowing clients to walk around and peer inside. Surgeons are using it to visualize MRI scans in 3D before operating, improving precision and safety. This technology effectively bridges the gap between the digital and physical without isolating the user in a VR headset.</p><img src=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800\" alt=\"Futuristic Tech\" class=\"article-image\"><h2>Consumer Adoption</h2><p>While currently expensive and targeted at enterprise users, consumer versions are expected within 3-5 years. Imagine video calling your family and seeing them sit at your coffee table, or playing a board game where the pieces are made of light. The screen is about to disappear.</p>"
+        }
+    }
+}

@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Khoa Tran</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="common.css">
+    <link rel="stylesheet" href="about.css">
+</head>
+
+<body>
+    <div id="tsparticles"></div>
+    <div class="particles-overlay"></div>
+
+    <header class="site-header">
+        <div class="container">
+            <a href="index.html" class="logo">KHOA<span class="highlight">TRAN</span></a>
+            <button class="mobile-toggle"><i class="fas fa-bars"></i></button>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html" data-i18n="nav_home">Home</a></li>
+                    <li><a href="about.html" class="active" data-i18n="nav_about">About</a></li>
+                    <li><a href="skills.html" data-i18n="nav_skills">Skills & Projects</a></li>
+                    <li><a href="blog.html" data-i18n="nav_blog">Blog</a></li>
+                    <li><a href="contact.html" data-i18n="nav_contact">Contact</a></li>
+                    <li class="lang-switcher-item">
+                        <div class="lang-dropdown">
+                            <button class="lang-drop-btn"><i class="fas fa-globe"></i> <span
+                                    data-i18n="lang_label">Language</span></button>
+                            <div class="lang-drop-content">
+                                <a href="#" data-lang="vi">Tiếng Việt</a>
+                                <a href="#" data-lang="en">English</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <!-- Reused Hero from Index -->
+        <section class="hero about-hero">
+            <div class="container">
+                <div class="profile-wrapper">
+                    <img src="images/Gemini_Generated_Image_oggsy1oggsy1oggs.png" alt="Khoa Tran" class="profile-img">
+                </div>
+                <h1 class="hero-name">KHOA TRAN</h1>
+                <p class="hero-role" data-i18n="about_hero_role">Backend Development Website <span
+                        class="separator">•</span> Website Designer</p>
+                <div class="social-icons">
+                    <a href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://instagram.com"><i class="fab fa-instagram"></i></a>
+                    <a href="https://github.com"><i class="fab fa-github"></i></a>
+                    <a href="https://linkedin.com"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="mailto:khoatran@example.com"><i class="fas fa-envelope"></i></a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Bio Section -->
+        <section class="about-bio-section">
+            <div class="container">
+                <div class="bio-wrapper">
+                    <p class="bio-greeting" data-i18n="bio_greeting">
+                        Xin chào, tớ là Khoa Tran, sinh viên chuyên ngành phát triển website tại FPT Polytechnic. Tớ
+                        đang
+                        là
+                        freelancer thiết kế website và là một người đam mê công nghệ. Tớ đang hướng tới trở thành một
+                        Fullstack Developer và thực hiện thêm nhiều ước mơ phía trước.
+                    </p>
+
+                    <blockquote class="bio-quote" data-i18n="bio_quote">
+                        Tương lai thuộc về những người tin vào vẻ đẹp trong chính những giấc mơ, hoài bão to lớn của
+                        mình...
+                    </blockquote>
+
+                    <p class="bio-text" data-i18n="bio_text">
+                        Giới thiệu nhiều hơn một chút về bản thân, tớ sống và làm việc tại Đà Nẵng. Tớ thích tìm hiểu về
+                        những thứ mới mẻ, thử thách bản thân và không ngừng học hỏi nhiều điều hơn. Tớ có kĩ năng khá
+                        tốt
+                        với nghệ thuật và cả kĩ thuật/công nghệ, không phải là năng khiếu thiên bẩm, nhưng tớ cảm nhận
+                        được
+                        tớ đã tự đạt được bằng những nỗ lực của bản thân.
+                        <br><br>
+                        Ngoài ra, tớ cũng siêu thích quay phim và chụp ảnh, kiểu như, tớ đang muốn truyền tải với thế
+                        giới
+                        này những gì tớ thấy qua góc kính máy ảnh nhiệm màu.
+                    </p>
+
+                    <div class="bio-signature">
+                        <span class="auth-label" data-i18n="auth_label">Author of this website.</span>
+                        <div class="signature-name">Khoa Tran</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Timeline Section -->
+        <section class="timeline-section">
+            <div class="timeline-container">
+                <!-- Education Column -->
+                <div class="timeline-column">
+                    <div class="timeline-header">
+                        <i class="fas fa-graduation-cap"></i> Education
+                    </div>
+                    <div class="timeline-list">
+                        <div class="timeline-item">
+                            <span class="timeline-date">July 2023 - Present</span>
+                            <h3 class="timeline-title">FPT Polytechnic Da Nang</h3>
+                            <p class="timeline-desc">Major in Web Development. Focusing on backend technologies and
+                                Fullstack development.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Experience Column -->
+                <div class="timeline-column">
+                    <div class="timeline-header">
+                        <i class="fas fa-briefcase"></i> Experience
+                    </div>
+                    <div class="timeline-list">
+                        <div class="timeline-item">
+                            <span class="timeline-date">2023 - Present</span>
+                            <h3 class="timeline-title">Freelance Web Developer</h3>
+                            <p class="timeline-place">Self-employed</p>
+                            <p class="timeline-desc">Building responsive web applications and landing pages for various
+                                clients.</p>
+                        </div>
+                        <div class="timeline-item">
+                            <span class="timeline-date">2024 - Present</span>
+                            <h3 class="timeline-title">Frontend Intern</h3>
+                            <p class="timeline-place">Tech Solutions Inc.</p>
+                            <p class="timeline-desc">Developing user interfaces using React and improving website
+                                performance.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Gallery Section -->
+        <section class="gallery-section">
+            <div class="container">
+                <div class="gallery-header">
+                    <h2 class="gallery-title" data-i18n="gallery_title">Locket Library</h2>
+                    <p class="gallery-subtitle" data-i18n="gallery_subtitle">A collection of memories, places, and
+                        little things that inspire me.</p>
+                </div>
+
+                <div class="gallery-masonry">
+                    <!-- Placeholder Images -->
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+                            alt="Coding Setup">
+                        <div class="gallery-overlay"></div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+                            alt="Guitar">
+                        <div class="gallery-overlay"></div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+                            alt="Code Screen">
+                        <div class="gallery-overlay"></div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+                            alt="Coffee">
+                        <div class="gallery-overlay"></div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+                            alt="City Street">
+                        <div class="gallery-overlay"></div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+                            alt="Keyboard">
+                        <div class="gallery-overlay"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-wrapper">
+                <div class="footer-top">
+                    <div class="footer-brand">
+                        <a href="#" class="footer-logo">KHOA<span class="highlight">TRAN</span></a>
+                        <p class="footer-desc" data-i18n="footer_desc">Backend Developer Website building beautiful web
+                            experiences. Sharing
+                            knowledge and journey through code.</p>
+                        <div class="footer-socials">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-github"></i></a>
+                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#"><i class="fas fa-envelope"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="footer-nav-group">
+                        <h4 data-i18n="footer_explore">Explore</h4>
+                        <ul>
+                            <li><a href="skills.html" data-i18n="footer_project">Project</a></li>
+                            <li><a href="blog.html" data-i18n="footer_blog">Blog</a></li>
+                            <li><a href="#" data-i18n="footer_photo">Photo</a></li>
+                            <li><a href="about.html" data-i18n="footer_about">About Me</a></li>
+                            <li><a href="skills.html" data-i18n="footer_showcase">Showcase</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="footer-nav-group">
+                        <h4 data-i18n="footer_connect">Connect</h4>
+                        <ul>
+                            <li><a href="contact.html" data-i18n="nav_contact">Contact</a></li>
+                            <li><a href="#" data-i18n="footer_resume">Resume</a></li>
+                            <li><a href="contact.html" data-i18n="footer_email">Email Me</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="footer-bottom">
+                    <div class="copyright">
+                        <p data-i18n="footer_rights">&copy; 2025 Khoa Tran. All rights reserved.</p>
+                    </div>
+                    <div class="legal-links">
+                        <a href="#" data-i18n="footer_privacy">Privacy Policy</a>
+                        <a href="#" data-i18n="footer_terms">Terms of Service</a>
+                    </div>
+                </div>
+
+                <a href="#" class="scroll-top"><i class="fas fa-arrow-up"></i></a>
+            </div>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/tsparticles@2.12.0/tsparticles.bundle.min.js"></script>
+    <script src="particles.js"></script>
+    <!-- i18next & Backend -->
+    <script src="https://unpkg.com/i18next@23.2.3/dist/umd/i18next.min.js"></script>
+    <script src="https://unpkg.com/i18next-http-backend@2.2.1/i18nextHttpBackend.min.js"></script>
+    <script src="js/lang.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
