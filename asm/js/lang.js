@@ -3,8 +3,8 @@ document.addEventListener('DOMContentLoaded', () => {
     i18next
         .use(i18nextHttpBackend)
         .init({
-            lng: localStorage.getItem('selectedLanguage') || 'vi', // Default language
-            fallbackLng: 'vi',
+            lng: localStorage.getItem('selectedLanguage') || 'en', // Default language
+            fallbackLng: 'en',
             backend: {
                 loadPath: 'locales/{{lng}}/translation.json'
             },
